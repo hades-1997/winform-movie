@@ -1,0 +1,49 @@
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csprojAssemblyReference.cache
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.actor.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addActor.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addDirector.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addGenres.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addMovie.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Director.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.genres.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Login.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.movies.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.rating.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.review.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csproj.GenerateResource.cache
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.pdb
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addComent.resources
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csproj.CopyComplete
+C:\Users\ThinkPad T450s\Documents\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.MoviesTop.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\bin\Debug\PlayerUI.exe.config
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\bin\Debug\PlayerUI.exe
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\bin\Debug\PlayerUI.pdb
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csprojAssemblyReference.cache
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.actor.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addActor.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addComent.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addDirector.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addGenres.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.addMovie.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Director.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Form1.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.genres.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Login.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.movies.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.MoviesTop.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.Properties.Resources.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.rating.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.review.resources
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csproj.GenerateResource.cache
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\WinformDacLoi.csproj.CopyComplete
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.exe
+C:\Users\ThinkPad T450s\Documents\Kiem Tra\C1810LWinform\PlayerUI\obj\Debug\PlayerUI.pdb
